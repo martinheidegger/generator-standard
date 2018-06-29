@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Martin Heidegger",
+      "authorEmail": "martin.heidegger@gmail.com",
+      "authorUrl": "https://github.com/martinheidegger"
+    }
+  }
+}
